@@ -9,34 +9,30 @@ d. Create a brand logo using Canva, following styling and branding guidelines an
 
 ```
 ## Output:
-### Apply Gestalt principles to enhance mobile and web layout design.
 ```
+1. Apply Gestalt principles to enhance mobile and web layout design.
+
 To enhance mobile and web layout design, Gestalt principles such as proximity, similarity, continuity, and figure-ground can be applied.
 Proximity helps group related elements together, while similarity ensures a consistent design language throughout the website.
 Continuity guides the user's eye through the website, and figure-ground creates visual hierarchy and separates sections.
 By applying these principles, designers can create a user-friendly and effective design that communicates the message clearly.
-```
-### Incorporate UI elements and design patterns into the layouts.
-```
+
+2. Incorporate UI elements and design patterns into the layouts.
 
 UI elements such as buttons, cards, and navigation menus can be incorporated into the layouts to create a consistent and intuitive design.
 Design patterns like grid layouts, hero sections, and testimonials sections can also be used to showcase products and build trust with users.
 By incorporating these elements and patterns, designers can create a design that is both functional and aesthetically pleasing.
 
-```
-### Develop interaction behaviors and usability principles for the designs.
+3. Develop interaction behaviors and usability principles for the designs.
 
-```
 To develop interaction behaviors and usability principles, designers should focus on responsiveness, accessibility, and feedback.
 The design should be responsive and work well on different devices and screen sizes.
 Accessibility guidelines should be followed to ensure that the design is usable by everyone.
 Feedback mechanisms such as loading animations and success messages can be used to provide feedback to users when they interact
 with the website.
 
-```
-### Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
+4. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 
-```
 
 Using Canva, a brand logo can be created that follows styling and branding guidelines.
 For example, a logo for a fictional company called "Bloom" can be designed with a stylized
